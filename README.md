@@ -1,6 +1,6 @@
 # npmdoc-mongoui
 
-#### api documentation for  [mongoui (v4.0.5)](https://github.com/azat-co/mongoui#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoui.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoui) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoui.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoui)
+#### basic api documentation for  [mongoui (v4.0.6)](https://github.com/azat-co/mongoui#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongoui.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongoui) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongoui.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongoui)
 
 #### MongoUI is an open-source web and desktop app which allows to administer local and remote MongoDB instances via GUI. No need to type commands in a terminal anymore. Convenient interface will allow to create, update, remove and filter/search documents. You
 
@@ -78,13 +78,13 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "f8d5b4a2cfc55573b807c153afbf7a819fd06089",
-        "tarball": "https://registry.npmjs.org/mongoui/-/mongoui-4.0.5.tgz"
+        "shasum": "de563254a81897e3882077495c8ee905aab9f060",
+        "tarball": "https://registry.npmjs.org/mongoui/-/mongoui-4.0.6.tgz"
     },
     "engines": {
         "node": ">= v6.x"
     },
-    "gitHead": "a96d574ac2eb87eff3ab6a9f3642141ed385c29b",
+    "gitHead": "ded0c573bc53bf4884fb515aa25d23695853f30d",
     "homepage": "https://github.com/azat-co/mongoui#readme",
     "license": "SEE IN LICENSE.md",
     "maintainers": [
@@ -113,7 +113,7 @@
         "start-dev": "concurrently 'npm run dev' 'npm run api-server' 'npm run dev-server'",
         "test": "mocha test"
     },
-    "version": "4.0.5"
+    "version": "4.0.6"
 }
 ```
 
